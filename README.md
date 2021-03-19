@@ -20,7 +20,7 @@ pip3 install termcolor
 
 git clone https://github.com/boss-ki/Metasploit-Installer.git
 
-cd METASPLOIT-INSTALLER
+cd Metasploit-Installer
 
 python3 METASPLOIT-INSTALLER.py
 
