@@ -9,6 +9,18 @@ pkg update && pkg upgrade -y
 
 pkg install git
 
+
 pkg install python && pkg install python2
 
-git clone 
+pip3 install pyfiglet
+
+pip3 install colorama
+
+pip3 install termcolor
+
+git clone https://github.com/boss-ki/Metasploit-Installer.git
+
+cd METASPLOIT-INSTALLER
+
+python3 METASPLOIT-INSTALLER.py
+
